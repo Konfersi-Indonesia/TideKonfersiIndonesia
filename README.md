@@ -5,7 +5,7 @@
 
 <h1>
   <a href="https://tide-konversi.herokuapp.com/home/index.html">
-  <img src="https://user-images.githubusercontent.com/82978589/217522364-c10d854b-9858-4559-adf9-c5d96febee75.png" width="600px" align="center" />
+  <img src="https://raw.githubusercontent.com/Konfersi-Indonesia/KonfersiTide-Trial/main/Picture1.ico" width="215px" align="right" />
 </a>
   <br>
   <a href="https://github.com/Konfersi-Indonesia/KonfersiTide/blob/main/README_ENG.md">
