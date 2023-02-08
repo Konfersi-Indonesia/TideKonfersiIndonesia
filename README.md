@@ -28,7 +28,7 @@
 </h3>
 
 <a href="https://github.com/Konfersi-Indonesia/KonfersiTide-Trial">
-  <img src="https://user-images.githubusercontent.com/82978589/153845674-cf86b54a-a6a1-487b-be6d-83b59b0b0f9a.png" width="600px" align="center" />
+  <img src="https://user-images.githubusercontent.com/82978589/217522364-c10d854b-9858-4559-adf9-c5d96febee75.png" width="600px" align="center" />
 </a>
 
 ## Memulai Penggunaan
