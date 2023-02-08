@@ -48,7 +48,7 @@ Jika Anda memerlukan bantuan, Anda dapat melihat panduan resmi yang ada pada <a 
 4. Klik, dan lakukan instalasi.
 5. Anda memerlukan kata sandi untuk memulai instalasi. Anda bisa menghubungi kami dengan mengisi link berikut untuk mendapatkan kata sandi:
   
-    [Kontak Kami](https://www.linkedin.com/in/satria-ginanjar-2a2350175/)
+    LinkedIn [Kontak Kami](https://www.linkedin.com/in/satria-ginanjar-2a2350175/)
 
 ### Fitur
 
