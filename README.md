@@ -37,7 +37,7 @@
 Setelah mengunduh rilis, unzip dan luncurkan program yang diinginkan.<br>
 Tidak ada kebutuhan lain yang diperlukan.
 
-Jika Anda memerlukan bantuan, Anda dapat melihat panduan resmi yang ada pada <a href="https://konfersi.herokuapp.com/home/index.html">Official Website</a>.<br>
+Jika Anda memerlukan bantuan, Anda dapat menanyakan pada kami melalui sosial media berikut LinkedIn [Kontak Kami](https://www.linkedin.com/in/satria-ginanjar-2a2350175/).<br>
 
 ### Panduan Instalasi
 #### Windows
