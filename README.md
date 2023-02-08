@@ -33,7 +33,7 @@
 
 ## Memulai Penggunaan
 
-#### Cara termudah untuk memulai Konfersi Tide adalah dengan mengunduh [rilis terbaru](https://konfersi.herokuapp.com/home/index.html) for your OS.<br>
+#### Cara termudah untuk memulai Konfersi Tide adalah dengan mengunduh [rilis terbaru](https://github.com/Konfersi-Indonesia/TideKonfersiIndonesia) for your OS.<br>
 Setelah mengunduh rilis, unzip dan luncurkan program yang diinginkan.<br>
 Tidak ada kebutuhan lain yang diperlukan.
 
@@ -42,23 +42,21 @@ Jika Anda memerlukan bantuan, Anda dapat melihat panduan resmi yang ada pada <a 
 ### Panduan Instalasi
 #### Windows
 
-1. Unduh [the Konfersi Tide repository](https://github.com/Konfersi-Indonesia/KonfersiTide-Trial).
+1. Unduh [the Konfersi Tide repository](https://github.com/Konfersi-Indonesia/TideKonfersiIndonesia).
 2. Ekstrak arsip zip yang telah Anda unduh dan buka foldernya.
-3. Terdapat penginstal dengan nama `Konfersi Tide.exe`.
+3. Terdapat penginstal dengan nama `Core.exe`.
 4. Klik, dan lakukan instalasi.
 5. Anda memerlukan kata sandi untuk memulai instalasi. Anda bisa menghubungi kami dengan mengisi link berikut untuk mendapatkan kata sandi:
+  
+    [Kontak Kami](https://www.linkedin.com/in/satria-ginanjar-2a2350175/)
 
-    a. untuk [Siswa/Mahasiswa](https://konfersi.herokuapp.com/home/studentmetocean.html)
-    
-    b. untuk [Professional](https://konfersi.herokuapp.com/home/profmetocean.html)
+### Fitur
 
-### Batasan
+Software ini memiliki beberapa fitur pengolahan data yang berasal dari pasang surut, yaitu:
 
-Repositori ini untuk versi percobaan Konfersi Tide. Anda memiliki batasan saat menggunakan perangkat lunak ini!
-
-1. Memproses data hanya maksimal 61 hari.
-2. Maksimum 28 konstanta harmonik.
-3. Maksimum prediksi selama 7 hari.
+1. Proses analisa dan prediksi pasang surut.
+2. Spektral analisis pasang surut.
+3. Deteksi anomali pada data pasang surut.
 
 ## Panduan Penggunaan
 ### Format Excel
@@ -77,8 +75,3 @@ Konfersi Tide sebagian besar didistribusikan di bawah Lisensi GPL-3.0. Lihat fil
 Beberapa file yang disertakan pihak ketiga mungkin memiliki lisensi yang berbeda - harap periksa pernyataan `LISENSI` (biasanya di bagian atas file kode sumber).
 
 <hr>
-
-Alamat Proyek: [https://github.com/Konfersi-Indonesia](https://github.com/Konfersi-Indonesia)
-<br/>
-Alamat Website: [https://konfersi.herokuapp.com/home/index.html](https://konfersi.herokuapp.com/home/index.html)
-<br/>
