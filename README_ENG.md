@@ -28,7 +28,7 @@
 </h3>
 
 <a href="https://github.com/Konfersi-Indonesia/KonfersiTide-Trial">
-  <img src="https://user-images.githubusercontent.com/82978589/153845674-cf86b54a-a6a1-487b-be6d-83b59b0b0f9a.png" width="600px" align="center" />
+  <img src="https://user-images.githubusercontent.com/82978589/217522364-c10d854b-9858-4559-adf9-c5d96febee75.png" width="600px" align="center" />
 </a>
 
 ## Getting started
@@ -42,23 +42,24 @@ If you need help, you can take a look at the official getting started guides loc
 ### Manual installation
 #### Windows
 
-1. Download [the Konfersi Tide repository](https://github.com/Konfersi-Indonesia/KonfersiTide-Trial).
+1. Download [the Konfersi Tide repository](https://github.com/Konfersi-Indonesia/TideKonfersiIndonesia).
 2. Extract the zip archive you've downloaded and open the folder.
 3. There is an installer with name `Konfersi Tide.exe`.
 4. Click it, and doing installation.
 5. You need password to start the installation. You can request on this link to get the password:
 
-    a. for [Students](https://konfersi.herokuapp.com/home/studentmetocean.html)
-    
-    b. for [Professional](https://konfersi.herokuapp.com/home/profmetocean.html)
+    LinkedIn [Contact Us](https://www.linkedin.com/in/satria-ginanjar-2a2350175/)
 
-### Limitation
+### Features
 
-This repository for trial version of Konfersi Tide. You have a limitation when you use this software!
+This software has several features to process data from tide:
 
-1. Processing data only for maximum 61 days.
-2. 38 maximum harmonic constituents.
-3. 7 days maximum for predicting tide.
+1. The process of analysis and prediction of tides.
+![Picture3](https://user-images.githubusercontent.com/82978589/217522443-44f23fe4-3b62-4ad0-a7c7-aa48f55fb644.png)
+2. Spectral analysis of tides.
+![Picture4](https://user-images.githubusercontent.com/82978589/217522478-ee6d1604-de77-49dc-ad12-c6da0e1ccbaa.png)
+3. Anomaly detection in tidal data.
+![Picture5](https://user-images.githubusercontent.com/82978589/217522516-2100df86-316c-4c9b-b476-466b7e799b35.png)
 
 ## Manual Usage
 ### Excel Format
@@ -77,8 +78,3 @@ Konfersi Tide is mostly distributed under the GPL-3.0 License. See the `LICENSE`
 Some third-party included files may have different licenses - please check their `LICENSE` statements (usually at the top of the source code files).
 
 <hr>
-
-Project Link: [https://github.com/Konfersi-Indonesia](https://github.com/Konfersi-Indonesia)
-<br/>
-Website Link: [https://konfersi.herokuapp.com/home/index.html](https://konfersi.herokuapp.com/home/index.html)
-<br/>
