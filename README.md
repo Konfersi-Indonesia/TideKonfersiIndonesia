@@ -37,7 +37,7 @@
 Setelah mengunduh rilis, unzip dan luncurkan program yang diinginkan.<br>
 Tidak ada kebutuhan lain yang diperlukan.
 
-Jika Anda memerlukan bantuan, Anda dapat menanyakan pada kami melalui sosial media berikut LinkedIn [Kontak Kami](https://www.linkedin.com/in/satria-ginanjar-2a2350175/).<br>
+Jika Anda memerlukan bantuan, You can ask us through the following social media LinkedIn [Contact Us](https://www.linkedin.com/in/satria-ginanjar-2a2350175/).<br>
 
 ### Panduan Instalasi
 #### Windows
