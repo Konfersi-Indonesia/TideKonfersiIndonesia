@@ -82,6 +82,8 @@ Beberapa file yang disertakan pihak ketiga mungkin memiliki lisensi yang berbeda
 
 Anda dapat berdonasi untuk mendukung kami terus mengembangkan perangkat lunak ini agar lebih baik! Terima Kasih
 
-[Saweria](https://saweria.co/konfersiindonesia)
-[Paypal](https://www.paypal.com/paypalme/konfersiindonesia)
+<h3>[SAWERIA](https://saweria.co/konfersiindonesia)
+
+[PAYPAL](https://www.paypal.com/paypalme/konfersiindonesia)
+  </h3>
 <hr>
