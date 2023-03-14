@@ -24,7 +24,7 @@
 <br>
 
 <h3>
-  Konversi Tide adalah perangkat lunak untuk menganalisis dan memprediksi data pasang surut. Perangkat lunak ini adalah penginstal untuk Windows.
+  Konfersi Tide adalah perangkat lunak untuk menganalisis dan memprediksi data pasang surut. Perangkat lunak ini adalah penginstal untuk Windows.
 </h3>
 
 <a href="https://github.com/Konfersi-Indonesia/KonfersiTide-Trial">
