@@ -89,4 +89,3 @@ Klik This Link:
 [PAYPAL](https://www.paypal.com/paypalme/konfersiindonesia)
   </h3>
 <hr>
-<hr>
