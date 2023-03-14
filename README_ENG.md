@@ -77,4 +77,16 @@ For date format is `MM/DD/YYYY hh:mm:ss`. Make sure that the length of the date 
 Konfersi Tide is mostly distributed under the GPL-3.0 License. See the `LICENSE` file for more information.
 Some third-party included files may have different licenses - please check their `LICENSE` statements (usually at the top of the source code files).
 
+## Support Us
+
+Support developer
+
+<h3> 
+Klik This Link:
+  
+[SAWERIA](https://saweria.co/konfersiindonesia)
+  
+[PAYPAL](https://www.paypal.com/paypalme/konfersiindonesia)
+  </h3>
+<hr>
 <hr>
