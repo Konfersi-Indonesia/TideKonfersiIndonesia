@@ -86,6 +86,7 @@ Anda dapat berdonasi untuk mendukung kami terus mengembangkan perangkat lunak in
 Klik This Link:
   
 [SAWERIA](https://saweria.co/konfersiindonesia)
+  
 [PAYPAL](https://www.paypal.com/paypalme/konfersiindonesia)
   </h3>
 <hr>
