@@ -77,4 +77,11 @@ untuk format tanggal adalah `MM/DD/YYYY hh:mm:ss`. Pastikan panjang data tanggal
 Konfersi Tide sebagian besar didistribusikan di bawah Lisensi GPL-3.0. Lihat file `LISENSI` untuk informasi lebih lanjut.
 Beberapa file yang disertakan pihak ketiga mungkin memiliki lisensi yang berbeda - harap periksa pernyataan `LISENSI` (biasanya di bagian atas file kode sumber).
 
+
+## Dukung Kami
+
+Anda dapat berdonasi untuk mendukung kami terus mengembangkan perangkat lunak ini agar lebih baik! Terima Kasih
+
+[Saweria](https://saweria.co/konfersiindonesia)
+[Paypal](https://www.paypal.com/paypalme/konfersiindonesia)
 <hr>
